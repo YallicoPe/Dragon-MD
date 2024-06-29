@@ -22,6 +22,8 @@ global.TrendTikTok = [
   "https://qu.ax/uQjN.mp4",
   "https://qu.ax/FLJU.mp4",
   "https://qu.ax/GZQe.mp4",
+  "https://qu.ax/qPnf.mp4",
+  "https://qu.ax/sMgs.mp4",
 ];
 
 handler.limit = 9;
