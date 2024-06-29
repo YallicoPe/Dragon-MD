@@ -15,7 +15,6 @@ export default handler;
 global.TrendTikTok = [
   "https://qu.ax/Ylk.mp4",
   "https://qu.ax/gjAe.mp4",
-  "https://qu.ax/LJqP.mp4",
   "https://qu.ax/sdTz.mp4",
   "https://qu.ax/sUeO.mp4",
   "https://qu.ax/EzVe.mp4",
