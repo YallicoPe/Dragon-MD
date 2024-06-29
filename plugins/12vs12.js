@@ -1,10 +1,12 @@
 const handler = async (m, {conn}) => {
-  m.reply(global.12vs12);
+  m.reply(global.Vs12);
 };
-handler.command = /^(12vs12)$/i;
+handler.command = /^(Vs12)$/i;
 export default handler;
+handler.group = true
+handler.botAdmin = true
 
-global.12vs12 = `
+global.Vs12 = `
 ╭──────⚔──────╮
 ㅤㅤ12 𝐕𝐄𝐑𝐒𝐔𝐒 12
 ╰──────⚔──────╯

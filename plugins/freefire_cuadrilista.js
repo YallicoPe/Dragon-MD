@@ -1,10 +1,12 @@
 const handler = async (m, {conn}) => {
-  m.reply(global.cuadrilista);
+  m.reply(global.Cuadrilista);
 };
-handler.command = /^(cuadrilista)$/i;
+handler.command = /^(Cuadrilista)$/i;
 export default handler;
+handler.group = true
+handler.botAdmin = true
 
-global.cuadrilista = `
+global.Cuadrilista = `
 
 🌊 *𝙻𝙸𝚂𝚃𝙰 𝙳𝙴 𝙰𝚀𝚄𝙰 𝙼𝙰𝙽*🧜🏼‍♂️
 🔱𝙼𝙾𝙳𝙰𝙻𝙸𝙳𝙰𝙳: *𝙷𝙴𝚇𝙰𝙶𝙾𝙽𝙰𝙻*
