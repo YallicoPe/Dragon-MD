@@ -23,7 +23,6 @@ global.TrendTikTok = [
   "https://qu.ax/GZQe.mp4",
   "https://qu.ax/qPnf.mp4",
   "https://qu.ax/sMgs.mp4",
-  "https://qu.ax/XlMW.mp4",
 ];
 
-handler.limit = 12;
+handler.limit = 10;
